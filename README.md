@@ -1,3 +1,4 @@
-Hi People!
+<title>Hi Everyone</title>
 
-I'm Abinandhan. I'm a passionate Electronics Engineer. 
+I'm an Electronics Engineer. I'm currently pursuing my batchelors in Electronics. 
+
