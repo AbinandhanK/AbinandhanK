@@ -4,7 +4,7 @@
 <!--body-->
 
 <br>
-<p align=left>I'm a 20 year old undergraduate student from Chennai who loves learning by building. My journey revolves around Electronics, Internet of Things, and Embedded Systems. I strive to use my skills and knowledge to make a meaningful impact on the world.</p>
+<p align="center">I'm a 20 year old undergraduate student from Chennai who loves learning by building. My journey revolves around Electronics, Internet of Things, and Embedded Systems. I strive to use my skills and knowledge to make a meaningful impact on the world.</p>
 
 <br>
 
