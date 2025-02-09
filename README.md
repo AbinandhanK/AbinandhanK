@@ -46,8 +46,8 @@
 ◆ Hands on **Surface Mount Technology (SMT)** & **soldering** (Interned at Orion Electrotek)
 
 ◆ Designing 3D CAD models optimized for 3D printing.
+<br><br>
 
-## 🖇️ Connect with me on
 <p align="center">
   <a href="mailto:abinandhankailasam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
