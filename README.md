@@ -16,7 +16,7 @@
 ## ⚙️ Hardware, Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white">
+  <a href=" "><img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -30,16 +30,21 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
+  </a>
 </p>
 
 
 
 ## 🔬 What I’m Working On
+<p align="center"> 
+
 **🔐Lock System:** This system is developed using the **ESP32 microcontroller** and the **ESP32-CAM module**. It features **face detection** powered by a **machine learning model (Knowledge Distillation)** and integrates **NFC technology** to enhance efficiency and reduce processing time.
 
 **📝Learning:** Currently taking a **Machine Learning course using TensorFlow** to integrate it into the project.
 
-**🛠️Exploring:** VLSI, circuit design, and low-power hardware optimization
+**🛠️Exploring:** VLSI, circuit design, and low power hardware optimization
+
+</p>
 
 ## 📈 Experience & Skills
 
